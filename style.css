@@ -6,7 +6,7 @@ ul {
   list-style:none;
 }
 div {
-  padding: 0 30px;
+  padding: 30 60px;
 }
 .header__flex {
   display: flex;
